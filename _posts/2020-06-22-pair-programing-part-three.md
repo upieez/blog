@@ -3,7 +3,7 @@ layout: post
 title: Pair Programming Part 3
 ---
 
-This is the last part of series where I discuss about the benefits of pair-programming.
+This is the last part of the series where I discuss about the benefits of pair-programming.
 
 Today I will be discussing the last key take-away that, to me, is beneficial.
 
