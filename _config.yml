@@ -30,7 +30,7 @@ twitter_username: samuelhww
 github_username: upieez
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
